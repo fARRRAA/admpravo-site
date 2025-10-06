@@ -1,0 +1,834 @@
+[
+  {
+    "query": "Government officials and administrative authorities in Russia",
+    "image_info": {
+      "url": "https://cdn.mainichi.jp/vol1/2020/03/27/20200327p2g00m0in112000p/8.jpg?1",
+      "file_path": "/workspace/imgs/russian_government_officials_meeting_putin.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 103035,
+      "width": 619,
+      "height": 413,
+      "total_pixels": 255647,
+      "basic_score": 0.7797203089572994
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant, depicting two prominent figures, including Vladimir Putin, in a formal administrative setting that strongly suggests a Russian government context. The image quality is excellent, with good clarity and no watermarks.",
+      "file_name": "russian_government_officials_meeting_putin.jpg",
+      "caption": "Russian President Vladimir Putin (left) in a formal meeting with an unnamed official (right) across a large wooden desk in an ornate office, likely within the Kremlin or a government building. The setting features rich wooden paneling and decorative furniture, with a Russian flag visible in the background, signifying a high-level administrative discussion.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Government officials and administrative authorities in Russia",
+    "image_info": {
+      "url": "https://static01.nyt.com/images/2022/03/31/us/politics/31dc-military1/merlin_204568836_5b610380-6503-48eb-a853-ae0b9ba04582-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "file_path": "/workspace/imgs/russian_military_officials_meeting_administration.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 50143,
+      "width": 600,
+      "height": 400,
+      "total_pixels": 240000,
+      "basic_score": 0.7661410290468241
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is highly relevant as it depicts Russian military officials, who are a significant part of the government and administrative authorities, in a formal meeting setting. The clarity is excellent, with sharp details and good lighting. There are no visible watermarks, and the overall composition is professional and suitable for publication.",
+      "file_name": "russian_military_officials_meeting_administration.jpg",
+      "caption": "A group of high-ranking Russian military officials, including the Minister of Defense Sergei Shoigu, are seated around a large wooden conference table during an official meeting. The room features dark wood paneling, Russian flags, and a white board in the background. The officials are dressed in military uniforms, actively engaged in the discussion, with various documents, microphones, and water bottles visible on the table.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Government officials and administrative authorities in Russia",
+    "image_info": {
+      "url": "https://static.themoscowtimes.com/image/article_1360/06/new-cabinet-ministers-russia.jpg",
+      "file_path": "/workspace/imgs/russian_government_officials_administration_building_portraits.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 332801,
+      "width": 1360,
+      "height": 765,
+      "total_pixels": 1040400,
+      "basic_score": 0.9532931049672818
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is perfectly relevant to the search query and prompt, clearly depicting the Russian House of Government with portraits of ten distinct officials. The clarity is excellent for both the building and the individual faces, and there are no watermarks. The composite image is well-executed and professional.",
+      "file_name": "russian_government_officials_administration_building_portraits.jpg",
+      "caption": "A composite image featuring the House of Government of the Russian Federation building (also known as the White House) with a collage of ten circular portraits of prominent Russian government officials and administrative authorities overlaid on its facade.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Government officials and administrative authorities in Russia",
+    "image_info": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29.jpg/960px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29.jpg",
+      "file_path": "/workspace/imgs/Vladimir_Putin_Russian_President_Official_Portrait.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 171013,
+      "width": 960,
+      "height": 1357,
+      "total_pixels": 1302720,
+      "basic_score": 0.8870231827095849
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image is a direct and clear depiction of Vladimir Putin, the President of Russia, making it perfectly relevant to the search query about Russian government officials and administration. The clarity, focus, and lighting are excellent, showcasing fine details. There are no watermarks, and the overall composition is professional and suitable for official use.",
+      "file_name": "Vladimir_Putin_Russian_President_Official_Portrait.jpg",
+      "caption": "A formal portrait of Vladimir Putin, the President of Russia, wearing a dark suit and a patterned red tie, set against a blurred background possibly featuring the Russian flag, emphasizing his role as a key government official.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Government officials and administrative authorities in Russia",
+    "image_info": {
+      "url": "https://static.themoscowtimes.com/image/1360/63/new-cabinet.jpg",
+      "file_path": "/workspace/imgs/russia-new-cabinet-government-officials-ministers.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 306723,
+      "width": 1360,
+      "height": 1199,
+      "total_pixels": 1630640,
+      "basic_score": 0.8503453919811678
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 50.0,
+      "overall_score": 85.0,
+      "explanation": "The image is perfectly relevant to the search query, explicitly showing 'Russia's New Cabinet' with identified government officials and their administrative roles. The clarity is excellent, with all text and faces easily discernible. However, a prominent watermark from 'The Moscow Times' is present at the bottom right, which reduces the watermark score.",
+      "file_name": "russia-new-cabinet-government-officials-ministers.jpg",
+      "caption": "An infographic titled 'This Is Russia's New Cabinet' featuring headshots of key government officials. It identifies Mikhail Mishustin as Prime Minister, along with ministers such as Sergei Lavrov (Foreign Minister), Sergei Shoigu (Defense Minister), Olga Lyubimova (Culture Minister), Vladimir Kolokoltsev (Interior Minister), Anton Siluanov (Finance Minister), Alexander Novak (Energy Minister), Maxim Reshetnikov (Economic Development Minister), Yevgeny Zinichev (Emergency Situations Minister), Oleg Matytsin (Sport Minister), and Konstantin Chuychenko (Justice Minister). Some individuals are marked with 'NEW'.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Court and justice symbols for legal presentation",
+    "image_info": {
+      "url": "https://media.istockphoto.com/id/1217545040/vector/realistic-wooden-brown-judge-gavel.jpg?s=612x612&w=0&k=20&c=VaaBYKyZPL7PZh0vovXmemMU769Mie2XhnsSzXSRqtw=",
+      "file_path": "/workspace/imgs/wooden_gavel_justice_legal_symbol.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 22039,
+      "width": 612,
+      "height": 465,
+      "total_pixels": 284580,
+      "basic_score": 0.7787631315045375
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image is highly relevant to the search query and prompt, clearly depicting a gavel, a universal symbol of court and justice. The illustration is sharp, well-rendered, and free of watermarks, making it excellent for legal presentations.",
+      "file_name": "wooden_gavel_justice_legal_symbol.jpg",
+      "caption": "A realistic digital illustration of a wooden judge's gavel and sound block, isolated on a clean white background. The gavel features a polished dark brown wooden handle and head, with a prominent golden metallic band around its center, resting on a matching wooden sound block. This image symbolizes law, justice, court proceedings, and legal authority.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Court and justice symbols for legal presentation",
+    "image_info": {
+      "url": "https://images.stockcake.com/public/2/a/4/2a4d9b65-cb28-49be-8104-6af54b8f5e5d_large/courtroom-judicial-scales-stockcake.jpg",
+      "file_path": "/workspace/imgs/court-justice-gavel-scales-pills-legal-symbolism-american-flag.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 38381,
+      "width": 512,
+      "height": 512,
+      "total_pixels": 262144,
+      "basic_score": 0.7741292432903867
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant to the search query and prompt, clearly displaying key symbols of court and justice such as a gavel, scales of justice, and an American flag. The inclusion of pills under the gavel adds a specific and strong thematic element related to legal matters involving pharmaceuticals or drug-related issues. The clarity is excellent, with good lighting and composition, and there are no watermarks.",
+      "file_name": "court-justice-gavel-scales-pills-legal-symbolism-american-flag.jpg",
+      "caption": "A powerful symbolic image featuring a wooden gavel resting on a pile of prescription pills, positioned next to the golden scales of justice, with a blurred American flag and dark wooden courtroom paneling in the background. This composition effectively represents legal themes, judicial process, and the complexities of drug-related law or pharmaceutical litigation.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Russian traffic police officer for administrative law presentation",
+    "image_info": {
+      "url": "https://www.luciankim.com/wp-content/uploads/2012/07/gibdd5-750x410-749x410.jpg",
+      "file_path": "/workspace/imgs/russian_gibb_traffic_officer_car_stop.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 83438,
+      "width": 749,
+      "height": 410,
+      "total_pixels": 307090,
+      "basic_score": 0.7938620543485999
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 75.0,
+      "watermark_score": 100.0,
+      "overall_score": 80.0,
+      "explanation": "The image is highly relevant, clearly depicting a Russian traffic police (GIBDD) officer interacting with a driver, which aligns perfectly with the search query and the prompt for an administrative law presentation. The clarity is good enough to discern details, though not exceptionally sharp. There are no watermarks. The composition effectively captures the scene.",
+      "file_name": "russian_gibb_traffic_officer_car_stop.jpg",
+      "caption": "A Russian GIBDD (State Road Traffic Safety Inspectorate) traffic police officer in uniform engages with a female driver in a white car on a city street, possibly conducting an administrative stop or inspection. In the background, other vehicles and urban buildings are visible, with a woman walking on the sidewalk near a pedestrian crossing.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Russian traffic police officer for administrative law presentation",
+    "image_info": {
+      "url": "https://thumbs.dreamstime.com/b/russian-traffic-inspector-st-petersburg-may-unidentified-policeman-inspects-near-palace-square-personal-vehicles-limited-49961072.jpg",
+      "file_path": "/workspace/imgs/russian_gibdd_traffic_police_officer_uniform.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 57722,
+      "width": 599,
+      "height": 900,
+      "total_pixels": 539100,
+      "basic_score": 0.854702895615517
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 60.0,
+      "overall_score": 85.0,
+      "explanation": "The image perfectly matches the search query and prompt, clearly showing a Russian GIBDD traffic police officer in uniform. The clarity is excellent, with sharp focus on the subject and good detail. However, a visible 'dreamstime.com' watermark is present, which detracts from its overall professional quality for presentation use without licensing.",
+      "file_name": "russian_gibdd_traffic_police_officer_uniform.jpg",
+      "caption": "A Russian GIBDD (State Road Safety Inspectorate) traffic police officer in a blue uniform, cap, and tie, walks on a city street. The officer holds a walkie-talkie and has a red and white traffic baton tucked into his belt, with blurred cars and pedestrians in the background, conveying a sense of official duty.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Russian traffic police officer for administrative law presentation",
+    "image_info": {
+      "url": "https://st4.depositphotos.com/9646706/25169/i/450/depositphotos_251694432-stock-photo-russian-traffic-police-officer-gibdd.jpg",
+      "file_path": "/workspace/imgs/russian_traffic_police_officer_GIBDD_car_street.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 73710,
+      "width": 600,
+      "height": 400,
+      "total_pixels": 240000,
+      "basic_score": 0.7797335487417089
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 88.0,
+      "watermark_score": 100.0,
+      "overall_score": 88.0,
+      "explanation": "The image is highly relevant, clearly depicting a Russian GIBDD (traffic police) officer and car in a street setting, which is suitable for a presentation on administrative law. Clarity is good for the main subjects, and there are no watermarks. The composition is decent, though the officer's back is to the camera and a fence slightly obstructs the view of the car.",
+      "file_name": "russian_traffic_police_officer_GIBDD_car_street.jpg",
+      "caption": "A Russian GIBDD (State Road Safety Inspectorate) traffic police officer stands by a patrol car on a city street. The officer is wearing a light blue uniform with a white cap, facing away from the camera, seemingly observing traffic. The white patrol car, clearly marked with \"ПОЛИЦИЯ\" (Police) and \"ГИБДД\" in Russian along with a swan emblem, has emergency lights on its roof. A decorative metal fence partially frames the foreground, with lush green trees, buildings, and a billboard visible in the background under a bright sky.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern technology in law enforcement and digital surveillance",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/81M4A6mvM3L._UF894,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/modern-digital-body-worn-law-enforcement-camera-surveillance.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 68195,
+      "width": 894,
+      "height": 894,
+      "total_pixels": 799236,
+      "basic_score": 0.9111581087427026
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting a modern digital body-worn camera for law enforcement. It is exceptionally clear, well-lit, and professionally presented against a clean white background with no watermarks.",
+      "file_name": "modern-digital-body-worn-law-enforcement-camera-surveillance.jpg",
+      "caption": "A high-quality product photograph of a modern, rugged black and grey digital body-worn camera, designed for law enforcement and digital surveillance, featuring a prominent lens, indicator lights, and 'PTT' (Push-to-Talk) button on a pure white background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern technology in law enforcement and digital surveillance",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/71R2plclNgL._UF894,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/modern_digital_body_cameras_law_enforcement_surveillance.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 52130,
+      "width": 894,
+      "height": 894,
+      "total_pixels": 799236,
+      "basic_score": 0.9094576059385792
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 98.0,
+      "watermark_score": 90.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant to the search query and prompt, showcasing modern digital body cameras used in law enforcement. The clarity, lighting, and composition are excellent. The 'YULONGDT' branding is present on one camera, but it's part of the product itself and not an intrusive image watermark.",
+      "file_name": "modern_digital_body_cameras_law_enforcement_surveillance.jpg",
+      "caption": "A high-quality studio shot of two black digital body-worn cameras, essential modern technology for law enforcement and digital surveillance. One camera displays a uniformed person on its screen, indicating its use in field operations. The cameras feature multiple lenses, buttons, and robust designs, with 'YULONGDT' branding visible on one unit, set against a clean white background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern technology in law enforcement and digital surveillance",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/71-582BGYmL._UF894,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/modern-law-enforcement-body-cameras-digital-surveillance-technology.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 82521,
+      "width": 894,
+      "height": 894,
+      "total_pixels": 799236,
+      "basic_score": 0.9126556681676219
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant to the search query and prompt, clearly depicting modern digital body cameras used in law enforcement. It boasts excellent clarity, professional lighting, and a clean presentation on a white background, with no visible watermarks. The composition showing both the front and back of the device is effective.",
+      "file_name": "modern-law-enforcement-body-cameras-digital-surveillance-technology.jpg",
+      "caption": "A pair of modern black body cameras, representing advanced digital technology for law enforcement and surveillance, are showcased against a pristine white background. The camera on the left displays its front with a prominent lens, integrated LED lights, and control buttons, while the camera on the right reveals its rear screen actively displaying a scene of police officers in an outdoor, urban environment.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern technology in law enforcement and digital surveillance",
+    "image_info": {
+      "url": "https://www.digitalallyinc.com/wp-content/uploads/2021/09/FirstVuPro-Header.png",
+      "file_path": "/workspace/imgs/digital_ally_law_enforcement_body_cameras_surveillance.jpg",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 385518,
+      "width": 548,
+      "height": 567,
+      "total_pixels": 310716,
+      "basic_score": 0.8215894966975796
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 98.0,
+      "watermark_score": 95.0,
+      "overall_score": 96.0,
+      "explanation": "The image is perfectly relevant to the search query and prompt, clearly depicting modern digital body cameras used in law enforcement and surveillance. It boasts excellent clarity and professional composition, showcasing both the front and back of the device with a police officer visible on the screen. The 'Digital-Ally' branding is integral to the product shown, not an intrusive watermark.",
+      "file_name": "digital_ally_law_enforcement_body_cameras_surveillance.jpg",
+      "caption": "Two black Digital-Ally body cameras are displayed against a clean white background, highlighting modern digital technology for law enforcement. The front camera showcases its lens and brand logo, while the rear camera reveals its screen displaying a video feed of a police officer wearing a tactical vest with 'POLICE' written on the back, illustrating its use in digital surveillance.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern technology in law enforcement and digital surveillance",
+    "image_info": {
+      "url": "https://www.digitalallyinc.com/wp-content/uploads/2022/03/Ecosystem_v2.png",
+      "file_path": "/workspace/imgs/digital_ally_law_enforcement_cameras_technology.jpg",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 263866,
+      "width": 562,
+      "height": 382,
+      "total_pixels": 214684,
+      "basic_score": 0.7768658603572479
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant to both the search query and prompt, directly showcasing modern digital technology and cameras for law enforcement, including body cameras, an in-car system, and a digital management interface. The image is clear, well-composed, and free of extraneous watermarks.",
+      "file_name": "digital_ally_law_enforcement_cameras_technology.jpg",
+      "caption": "A composite image featuring various 'Digital Ally' law enforcement technologies: a black body camera with a checkered shield logo, an in-car digital video recorder or system unit, and a tablet displaying the 'EVO WEB' interface with a police car in the background. The body camera's screen shows a law enforcement officer, highlighting its role in digital surveillance and evidence collection.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Visual representation of legal responsibility and fines",
+    "image_info": {
+      "url": "http://www.differencebetween.net/wp-content/uploads/2020/02/Penalty-vs-Fine.jpg",
+      "file_path": "/workspace/imgs/penalty-vs-fine-comparison-table-legal-responsibility-punishment.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 254193,
+      "width": 550,
+      "height": 705,
+      "total_pixels": 387750,
+      "basic_score": 0.8380409920696654
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 70.0,
+      "overall_score": 88.0,
+      "explanation": "The image is highly relevant to the search query, providing a clear comparison between 'Penalty' and 'Fine,' which directly relates to legal responsibility and punishment. The text is crisp and legible, and the information is well-organized. A small watermark/logo is present in the bottom right corner, slightly reducing the watermark score, but does not significantly detract from the overall quality or readability of the content.",
+      "file_name": "penalty-vs-fine-comparison-table-legal-responsibility-punishment.jpg",
+      "caption": "An informational graphic illustrating a comparison table between 'Penalty' and 'Fine.' The table defines each term, discusses their application in criminal and civil law, and lists various forms of punishment associated with both, providing a clear visual representation of legal responsibility and types of sanctions.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Visual representation of legal responsibility and fines",
+    "image_info": {
+      "url": "https://eveningstarbooks-net.cdn.bibliopolis.com/pictures/000014191.jpg?width=768&height=1000&fit=bounds&auto=webp&v=1718740657",
+      "file_path": "/workspace/imgs/punishment_responsibility_essays_philosophy_law_hart_book.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 101573,
+      "width": 678,
+      "height": 1000,
+      "total_pixels": 678000,
+      "basic_score": 0.8851995189392332
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 90.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant as it depicts a book titled 'Punishment and Responsibility: Essays in the Philosophy of Law,' directly addressing the concepts of legal responsibility and punishment from the search query. The clarity is excellent, with all text clearly legible, and there are no watermarks. The overall composition is professional and well-lit, making it a good visual representation of the legal topics.",
+      "file_name": "punishment_responsibility_essays_philosophy_law_hart_book.jpg",
+      "caption": "A clear, well-lit photograph of the book 'Punishment and Responsibility: Essays in the Philosophy of Law' by H.L.A. Hart, featuring its distinctive yellow and white cover with black text, prominently displaying the title and author.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Visual representation of legal responsibility and fines",
+    "image_info": {
+      "url": "https://financialcrimeacademy.org/wp-content/uploads/2022/04/1-76-1024x576.jpg",
+      "file_path": "/workspace/imgs/consequences_of_non_compliance_legal_gavel_fines_responsibility.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 60283,
+      "width": 1024,
+      "height": 576,
+      "total_pixels": 589824,
+      "basic_score": 0.8748093573270433
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 95.0,
+      "watermark_score": 80.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant to the search query, effectively illustrating 'legal responsibility' and the concept of 'punishment/fines' through the prominent gavel and explicit text 'CONSEQUENCES OF NON-COMPLIANCE'. The clarity is excellent with sharp details and readable text. The FCA logo in the corner acts as a brand mark, slightly reducing the watermark score for a generic stock image, but does not significantly detract from the overall quality or message. The composition is strong and the visual elements powerfully convey the theme.",
+      "file_name": "consequences_of_non_compliance_legal_gavel_fines_responsibility.jpg",
+      "caption": "A wooden judge's gavel rests on a sounding block, set against a stark white and red background, with the bold white text 'CONSEQUENCES OF NON-COMPLIANCE' overlaid in black boxes. A subtle Bitcoin symbol is visible on the sounding block, and the FCA (Financial Conduct Authority) logo is in the top left corner, suggesting a context of regulatory compliance and legal repercussions in finance.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Visual representation of legal responsibility and fines",
+    "image_info": {
+      "url": "https://www.prisonpolicy.org/images/twitterCards/discfines_opengraphcard.png",
+      "file_path": "/workspace/imgs/cost-of-fines-for-incarcerated-workers-by-state.jpg",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 169867,
+      "width": 1200,
+      "height": 627,
+      "total_pixels": 752400,
+      "basic_score": 0.9023925415429511
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is a highly relevant bar graph that directly illustrates 'fines' as a form of 'punishment' for 'disciplinary infractions,' touching upon 'legal responsibility' within the context of incarcerated workers. The clarity is generally very good, with legible text and well-defined bars. However, the precise numerical values for the highest bars (Alabama, Georgia, Maine) are not explicitly provided, which slightly impacts the clarity score. There are no watermarks, and the overall composition is professional and effective.",
+      "file_name": "cost-of-fines-for-incarcerated-workers-by-state.jpg",
+      "caption": "A bar graph titled 'Days of Work Required to Pay the Lowest-Tier Fine or Fee for a Disciplinary Infraction for the Lowest-Paid Incarcerated Worker in Each State.' The graph displays a comparison across various US states, with some, like Alabama, Georgia, and Maine, appearing to require hundreds of days of work, while others, such as Wyoming and Montana, require only a few days. North Dakota is noted as having fine amounts not defined in policy. This visualization effectively highlights the disparate economic burden of disciplinary fines on incarcerated individuals across different states.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional image representing Russian administrative law and government",
+    "image_info": {
+      "url": "https://www.hrw.org/sites/default/files/styles/opengraph/public/media_2022/03/202203eca_russia_flagmoscow.jpg?h=65fff0d5&itok=EnwD_pis",
+      "file_path": "/workspace/imgs/russian_government_building_flag_administrative_law.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 65248,
+      "width": 1200,
+      "height": 630,
+      "total_pixels": 756000,
+      "basic_score": 0.902972003493899
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 90.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant as it prominently features a Russian government building (likely the State Duma) with the Russian flag, directly addressing 'Russia' and 'government'. The architectural style and context are appropriate for representing 'administrative law'. The image is clear, well-composed, and free of watermarks, contributing to a high overall professional quality.",
+      "file_name": "russian_government_building_flag_administrative_law.jpg",
+      "caption": "A somber view of a grand Russian government building, likely the State Duma in Moscow, with its distinctive architecture and the national flag of Russia flying on the rooftop under an overcast sky. The building's facade features an intricate sculptural relief.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional image representing Russian administrative law and government",
+    "image_info": {
+      "url": "http://static.kremlin.ru/media/events/photos/big/PsOIP17ba8w3y9UyAVYx18dz7K9JsA6a.jpeg",
+      "file_path": "/workspace/imgs/vladimir_putin_russian_judges_congress_administrative_law_justice.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 211393,
+      "width": 940,
+      "height": 580,
+      "total_pixels": 545200,
+      "basic_score": 0.8767484921573078
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 93.0,
+      "explanation": "The image is exceptionally relevant, depicting Vladimir Putin and other high-ranking officials at the 'VIII All-Russian Congress of Judges,' which directly pertains to Russian government, justice, and administrative law. The clarity is excellent, with sharp focus on the subjects and legible text. There are no watermarks, and the overall composition and professional quality are very high.",
+      "file_name": "vladimir_putin_russian_judges_congress_administrative_law_justice.jpg",
+      "caption": "Vladimir Putin, seated center, attends the VIII All-Russian Congress of Judges alongside other senior judicial and government officials. The formal gathering, held in a grand hall with a banner overhead, underscores discussions and decisions related to justice, administrative law, and the Russian judicial system.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional image representing Russian administrative law and government",
+    "image_info": {
+      "url": "https://www.stratfor.com/sites/default/files/styles/wv_small/public/main/images/Russia_judicial_system_v2.jpg?itok=3dLorgvP",
+      "file_path": "/workspace/imgs/russia_judicial_system_administrative_law_diagram.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 63821,
+      "width": 784,
+      "height": 585,
+      "total_pixels": 458640,
+      "basic_score": 0.8414062799984656
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 80.0,
+      "watermark_score": 40.0,
+      "overall_score": 85.0,
+      "explanation": "The image is highly relevant as it explicitly details 'RUSSIA'S JUDICIAL SYSTEM,' including 'Administrative Claims' courts directly related to administrative law and government justice. The diagram is professionally designed and clearly presents the hierarchy. However, there is a visible copyright watermark at the bottom right, and some text appears slightly soft rather than crisp, which impacts clarity and overall polish.",
+      "file_name": "russia_judicial_system_administrative_law_diagram.jpg",
+      "caption": "An organizational chart depicting the structure of Russia's judicial system, showcasing the hierarchy from the Constitutional Court, Supreme Court, and Supreme Arbitration Court, down through Courts of General Jurisdiction in the Subunits of Federation, Military Tribunals, Circuit Courts of Business and Administrative Claims, and Lower (District) Courts of General Jurisdiction, to Courts of Business and Administrative Claims in the Subunits of Federation.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional image representing Russian administrative law and government",
+    "image_info": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Coat_of_Arms_of_the_Russian_Federation_2.svg/1092px-Coat_of_Arms_of_the_Russian_Federation_2.svg.png",
+      "file_path": "/workspace/imgs/Russian_Federation_Coat_of_Arms_Government_Emblem.jpg",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 534244,
+      "width": 1092,
+      "height": 1200,
+      "total_pixels": 1310400,
+      "basic_score": 0.9153465763619761
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is the official Coat of Arms of the Russian Federation, making it highly relevant to 'Russia government'. While not a literal depiction of 'administrative law' or 'justice', it serves as a strong, professional symbol of the Russian state, which encompasses its legal and administrative structures. The image quality is outstanding, with perfect clarity, sharp details, and no watermarks.",
+      "file_name": "Russian_Federation_Coat_of_Arms_Government_Emblem.jpg",
+      "caption": "The official Coat of Arms of the Russian Federation, featuring a golden double-headed eagle with three crowns, holding a scepter and an orb. On its chest, a red escutcheon depicts Saint George the Victorious on horseback, slaying a dragon. The emblem is presented against a black background, symbolizing the sovereignty and state power of Russia.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional image representing Russian administrative law and government",
+    "image_info": {
+      "url": "https://www.hrw.org/sites/default/files/styles/16x9_large/public/media_2024/07/202407eca_russia_foreignagent_illustration.jpg?h=c3985272&itok=D62OWqWo",
+      "file_path": "/workspace/imgs/russia_government_political_repression_labeling.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 37789,
+      "width": 700,
+      "height": 393,
+      "total_pixels": 275100,
+      "basic_score": 0.7768404921153016
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant, powerfully illustrating the concept of political repression and administrative labeling by the Russian government, directly addressing 'Russia government' and the implications for 'administrative law' and 'justice.' The Russian flag cufflink explicitly links it to Russia. The illustration is exceptionally clear, professionally composed, and devoid of watermarks.",
+      "file_name": "russia_government_political_repression_labeling.jpg",
+      "caption": "A powerful editorial illustration depicting stylized individuals being pinned with labels such as 'FOREIGN AGENT,' 'UNDESIRABLE,' 'EXTREMIST,' and 'SPY' by a large hand, wearing a suit with a cufflink featuring the Russian flag, as it prepares to pin a 'TRAITOR' label. This artwork symbolizes the Russian government's use of administrative classifications for political repression and the arbitrary application of justice.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Young people and minors in legal context",
+    "image_info": {
+      "url": "https://ca-times.brightspotcdn.com/dims4/default/af3682a/2147483647/strip/false/crop/4228x2378+0+215/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F23%2F4d%2Ff7c760be45b8a1788ed64b565711%2Fap070315057151.jpg",
+      "file_path": "/workspace/imgs/youth_minors_juvenile_detention_center_line.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 108654,
+      "width": 1200,
+      "height": 675,
+      "total_pixels": 810000,
+      "basic_score": 0.9202085086091651
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant, depicting young individuals, likely minors or teenagers, in an institutional setting that strongly suggests a legal or correctional context, such as a juvenile detention center. The clarity is good, and there are no watermarks. The composition effectively captures the scene.",
+      "file_name": "youth_minors_juvenile_detention_center_line.jpg",
+      "caption": "A line of young male individuals, likely minors or teenagers, dressed in plain clothing, standing in a dormitory-style room with bunk beds, characteristic of a juvenile detention center, correctional facility, or youth shelter, underscoring the legal context of young people.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Young people and minors in legal context",
+    "image_info": {
+      "url": "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale,dpr_1.5/jackets/9781440880292.jpg",
+      "file_path": "/workspace/imgs/teen_legal_rights_book_cover_youth_law_minors.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 172964,
+      "width": 852,
+      "height": 1219,
+      "total_pixels": 1038588,
+      "basic_score": 0.9139326784957396
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 90.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant to the search query and prompt as it is a book cover explicitly titled 'TEEN LEGAL RIGHTS'. The visual content of young people sitting on steps also aligns well. The clarity is excellent, and the composition is professional. A small publisher's name ('BLOOMSBURY') is present at the bottom, which is a minor brand element rather than a disruptive watermark.",
+      "file_name": "teen_legal_rights_book_cover_youth_law_minors.jpg",
+      "caption": "A book cover titled 'TEEN LEGAL RIGHTS, Fourth Edition' by David L. Hudson Jr., featuring a top-down view of the legs and feet of three young people or teenagers wearing jeans and various sneakers, seated on weathered wooden steps. The publisher 'BLOOMSBURY' is discreetly mentioned at the bottom.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Young people and minors in legal context",
+    "image_info": {
+      "url": "https://townsquare.media/site/114/files/2025/03/attachment-Texas-Laws-for-Minors.jpg",
+      "file_path": "/workspace/imgs/young_people_discovering_texas_law_legal_context.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 199134,
+      "width": 1600,
+      "height": 1067,
+      "total_pixels": 1707200,
+      "basic_score": 0.8428932080126441
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 90.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is highly relevant to the search query as it clearly depicts two young people reacting to the word 'law' magnified in a dictionary, directly addressing 'youth,' 'teenagers,' and 'law' in a legal context. The clarity is excellent, with sharp focus on the subjects and the magnified text. There are no watermarks visible. The overall composition is professional and effectively conveys a sense of discovery or surprise related to law, though the specific Texas state flag in the magnifying glass might narrow its general applicability slightly for some users.",
+      "file_name": "young_people_discovering_texas_law_legal_context.jpg",
+      "caption": "Two surprised young people, a girl in a straw hat and a boy with curly blonde hair, react dramatically as a magnifying glass highlights the word 'law' in an open dictionary. The magnifying glass also features a graphic of the state of Texas, suggesting a focus on Texas-specific legal matters or education for minors and youth.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Russian legal documents and constitution for law presentation",
+    "image_info": {
+      "url": "https://i.ebayimg.com/images/g/H0kAAOSw68hbfm5H/s-l400.jpg",
+      "file_path": "/workspace/imgs/russian_soviet_constitution_1926_rsfsr_legal_document.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 32124,
+      "width": 287,
+      "height": 400,
+      "total_pixels": 114800,
+      "basic_score": 0.7158365064454429
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant, showing the 1926 Constitution of the Russian Socialist Federative Soviet Republic, a clear Russian legal document. Clarity is excellent, allowing all text to be read easily, and there are no watermarks. The overall quality is very high for a historical document.",
+      "file_name": "russian_soviet_constitution_1926_rsfsr_legal_document.jpg",
+      "caption": "The cover of the 1926 Constitution (Fundamental Law) of the Russian Socialist Federative Soviet Republic (RSFSR), published by the Legal Publishing House of the NKJ RSFSR in Moscow. This historical legal document features a title in Cyrillic, with additional text indicating it is a 'supplemented edition' and includes details on the organization and activities of central and local RSFSR bodies. Library stamps and an inventory number (43668) are visible on the lower half of the cover, highlighting its historical provenance.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Russian legal documents and constitution for law presentation",
+    "image_info": {
+      "url": "https://www.prlib.ru/sites/default/files/book_preview/b30abe5d-8f60-4836-8ef4-8ac9425ceb08/4165564_doc1_9EDC459D-9024-46A5-BC16-2BE43747E012.jpg",
+      "file_path": "/workspace/imgs/russian_constitutional_court_conclusion_1993_yeltsin_reform.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 305463,
+      "width": 800,
+      "height": 1104,
+      "total_pixels": 883200,
+      "basic_score": 0.9261920386138425
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is a highly relevant scan of an official Russian legal document, specifically a conclusion from the Constitutional Court of the Russian Federation, directly addressing 'constitutional reform' and referencing the Russian Constitution. This perfectly matches the search query and prompt for 'Russian constitution legal documents' and 'law presentation'. The text is clear and legible for a scanned document, with no watermarks. The overall quality is excellent for an archival legal record.",
+      "file_name": "russian_constitutional_court_conclusion_1993_yeltsin_reform.jpg",
+      "caption": "A scanned image of an official Russian legal document titled 'Conclusion of the Constitutional Court of the Russian Federation', dated September 21, 1993, in Moscow. The document discusses the constitutionality of actions and decisions by President B.N. Yeltsin related to the 'step-by-step constitutional reform' and his обращения (address) to citizens. It lists the members of the Constitutional Court and references articles of the Russian Constitution. The page features an official state emblem at the top and handwritten archival notes at the bottom.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Russian legal documents and constitution for law presentation",
+    "image_info": {
+      "url": "https://www.prlib.ru/sites/default/files/book_preview/67acc0ed-45dc-42be-bc86-83ce5c73eb48/5793490_doc1_13E7C2A0-7C91-4A62-8E76-01B648A9ACD2.jpg",
+      "file_path": "/workspace/imgs/russian_president_order_constitution_medvedev_legal_document_2009.jpg",
+      "img_format": "JPEG",
+      "mode": "L",
+      "file_size": 339605,
+      "width": 800,
+      "height": 1132,
+      "total_pixels": 905600,
+      "basic_score": 0.9286369635281486
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is perfectly relevant, featuring an authentic Russian presidential order concerning the publication of the Constitution, making it ideal for a law presentation. The clarity is excellent for a scanned document, and it contains no external watermarks, only official seals and signatures integral to the document itself.",
+      "file_name": "russian_president_order_constitution_medvedev_legal_document_2009.jpg",
+      "caption": "An official order (Распоряжение) from the President of the Russian Federation, Dmitry Medvedev, dated January 10, 2009. The document concerns the official publication of the Russian Constitution and features the Russian coat of arms at the top, along with a circular seal of the Presidential Administration's Chancellery and President Medvedev's signature.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Russian legal documents and constitution for law presentation",
+    "image_info": {
+      "url": "http://duma.gov.ru/media/photos/1254x705/Pcssd60ng23A494ZmU4lNsUEWxrsHamk.JPG",
+      "file_path": "/workspace/imgs/russian_constitution_legal_books_presentation.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 149727,
+      "width": 1254,
+      "height": 705,
+      "total_pixels": 884070,
+      "basic_score": 0.9319904200920306
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 90.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant to the search query and prompt, clearly showing the Russian Constitution and its commentary. Clarity is very good, with legible text. A publisher's logo (ConsultantPlus) is visible on one of the book covers, but it is part of the document's design rather than an overlaid watermark. The overall composition and quality are professional and suitable for a law presentation.",
+      "file_name": "russian_constitution_legal_books_presentation.jpg",
+      "caption": "Two Russian legal books, the 'Constitution of the Russian Federation' and a 'Commentary to the Constitution of the Russian Federation,' are stacked neatly on a polished wooden table. The books feature blue, red, and white covers, reflecting the colors of the Russian flag, with prominent Cyrillic text visible. This image is ideal for illustrating Russian legal documents or a law-related presentation.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Russian legal documents and constitution for law presentation",
+    "image_info": {
+      "url": "https://www.ctevans.net/Nvcc/Photos/Russia/Ballot.jpg",
+      "file_path": "/workspace/imgs/Russian_Constitution_1993_Referendum_Ballot_Legal_Document.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 108869,
+      "width": 800,
+      "height": 556,
+      "total_pixels": 444800,
+      "basic_score": 0.841545445568648
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant as it depicts an authentic ballot for the 1993 Russian Constitution referendum, a key historical legal document. It is very clear, fully legible, and free of watermarks, making it an excellent resource for a law presentation.",
+      "file_name": "Russian_Constitution_1993_Referendum_Ballot_Legal_Document.jpg",
+      "caption": "An authentic and clear image of the official ballot for the 1993 All-Russian Referendum on the adoption of the Constitution of the Russian Federation, held on December 12, 1993. The ballot presents the question 'Do you accept the Constitution of the Russian Federation?' with options 'Да' (Yes) and 'Нет' (No), along with detailed voting instructions and rules for invalidating ballots. Diagonal lines across the ballot may indicate it was a sample or a marked document.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
